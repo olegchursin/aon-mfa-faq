@@ -1,0 +1,16 @@
+{
+	"title": "Multi-Factor Authentication (MFA)",
+	"strongerSecurity": "Stronger security for your account",
+	"whatIsMFA": "What is Multi-factor authentication?",
+	"mfaIs": "Multi-factor authentication is the practice of requiring multiple factors to confirm your identity. Factors may include something you know, such as a password, something you have, such as a unique code sent to a mobile device, or something you are, such as your fingerprint.",
+	"whyImportant": "Why is it important?",
+	"imiportantBecause": "Traditional passwords are vulnerable to attacks such as brute force or credential stuffing. With well-implemented MFA, these weaknesses are mitigating by requiring a second alternative authentication method alongside the password.",
+	"whatIsTOTP": "What is a Time-based One-Time Password (TOTP)?",
+	"totpIs": "A common type of multi-factor authentication is the Time-based One-Time Password, an algorithmically generated, time sensitive code that can be accessed via an app on a person's smartphone.",
+	"whatAppsSupported": "What authentication applications are supported to access the CyQu portal?",
+	"supportedApps": "We recommend Google Authenticator, Okta Verify, Authy or your preferred password manager app.",
+	"havingTrouble": "Having trouble?",
+	"contact": "Contact",
+	"supportEmail": "CyQu.Support@aon.com",
+	"copyright": "Aon plc o sus filiales (Aon). Todos los derechos reservados."
+}
