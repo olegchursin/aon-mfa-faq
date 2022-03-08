@@ -1,10 +1,10 @@
+import Body from './components/Body';
 import Footer from './components/Footer';
-import Main from './components/Main';
 
 const App: React.FC = () => {
 	return (
 		<div className="app">
-			<Main />
+			<Body />
 			<Footer />
 		</div>
 	);

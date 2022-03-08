@@ -7,7 +7,7 @@ const Legal = () => {
 	return (
 		<div>
 			<span>&copy;{currentYear}&nbsp;</span>
-			<span>{t('copyright')}</span>
+			<span>{t('common.copyright')}</span>
 		</div>
 	);
 };

@@ -11,19 +11,19 @@ export const languages = {
 
 export const paragraphs: IQA[] = [
 	{
-		question: 'whatIsMFA',
-		answer: 'mfaIs'
+		question: 'mfa.whatIsMFA',
+		answer: 'mfa.mfaIs'
 	},
 	{
-		question: 'whyImportant',
-		answer: 'imiportantBecause'
+		question: 'mfa.whyImportant',
+		answer: 'mfa.imiportantBecause'
 	},
 	{
-		question: 'whatIsTOTP',
-		answer: 'totpIs'
+		question: 'mfa.whatIsTOTP',
+		answer: 'mfa.totpIs'
 	},
 	{
-		question: 'whatAppsSupported',
-		answer: 'supportedApps'
+		question: 'mfa.whatAppsSupported',
+		answer: 'mfa.supportedApps'
 	}
 ];
