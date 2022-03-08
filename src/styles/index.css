@@ -76,7 +76,7 @@ body {
 nav {
 	padding: var(--base-spacing);
 	padding-bottom: 0;
-	border-bottom: 1px solid var(--uui-theme-secondary-600);
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
 	margin-block-end: var(--base-spacing-2x);
 	height: 64px;
 }
@@ -118,17 +118,17 @@ footer {
 	align-items: center;
 }
 
-.footer__logo {
+.footer__start {
 	display: flex;
 	gap: var(--base-spacing);
 	align-items: center;
 }
 
-.footer__language-links {
+.footer__language-selector {
 	display: flex;
 	gap: 12px;
 }
 
-.footer__language-links span {
+.footer__language-selector span {
 	cursor: pointer;
 }
