@@ -27,7 +27,8 @@
 		"eject": "react-scripts eject",
 		"serve": "yarn build && serve -s build",
 		"s3-push": "yarn build && yarn s3-wipe && aws s3 cp ./build s3://mfa-page/ --recursive",
-		"s3-wipe": "aws s3 rm s3://mfa-page/ --recursive"
+		"s3-wipe": "aws s3 rm s3://mfa-page/ --recursive",
+		"start-ubp": "REACT_APP_ACTIVE_APP=ubp npm start"
 	},
 	"eslintConfig": {
 		"extends": [
